@@ -1,0 +1,6 @@
+@KMDRecociliationApp.API_HostAddress = http://localhost:5204
+
+GET {{KMDRecociliationApp.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
